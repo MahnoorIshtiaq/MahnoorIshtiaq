@@ -26,9 +26,10 @@ Check out my creative works and prototypes on Figma:
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MahnoorIshtiaq&show_icons=true&theme=radical" alt="GitHub Stats" height="165" />
-  <img src="https://streak-stats.demolab.com?user=MahnoorIshtiaq&theme=radical&hide_border=false" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MahnoorIshtiaq&show_icons=true&theme=radical&cache_seconds=1800" height="165" />
+  <img src="https://streak-stats.demolab.com?user=MahnoorIshtiaq&theme=radical&cache_seconds=1800" height="165"/>
 </p>
+
 
 ---
 
